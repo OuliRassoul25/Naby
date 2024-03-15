@@ -1,0 +1,96 @@
+body[class="backgroundcolor"]{
+    background-image: url(https://washington.org/sites/default/files/styles/generic_hero_banner_1440_x_600/public/dc_import/Walking-The-National-Mall_9160DD10-60E7-490A-9AFB1FC93026EF47_23b91224-2d41-4578-8b29e554713c2e0d.jpg.webp?itok=n3G3Hf9i);
+    background-size: cover;/* englobe l'image sur toute la page */
+
+}
+body[class="fondlondres"]{
+    background-image: url(https://w3ww.rsatravelinsurance.com/sites/rsatravelinsurance.com/files/Londres.jpg);
+    background-size: cover;/* englobe l'image sur toute la page */
+
+
+
+}
+body[class="fondtokyo"]{
+    background-image: url(https://i.pinimg.com/736x/9b/03/1a/9b031ab82edfd7dfdd92e46f6929c5fa.jpg);
+    background-size: cover;
+
+
+}
+body[class="fondsingpr"]{
+    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWrJgH437-vlr-g7gkXPPz4lA8YiC8_wDANzWFpgINL46-EKSk);
+    background-size: cover;/* englobe l'image sur toute la page */
+
+
+
+}
+body[class="fondmontreal"]{
+    background-image: url(https://www.alibabuy.com/photos/library/1500/10893.jpg);
+
+}
+
+
+
+
+.video{
+    display: flex;
+    width: 40%;
+    height: 40vh;
+    float: left;
+    margin-bottom: 20vh;
+    margin-right: 10%;
+}
+.texte11{
+    display: flex;
+    height: 40vh;
+    margin-top: 10vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+.texte112{
+    display: flex;
+    height: 40vh;
+    margin-top: 10vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.158);
+    margin-left: 10%;
+}
+video{
+    border-radius: 30px;
+}
+.image2{
+    margin-top: 20vh;
+    text-align: center;
+    margin-bottom: 5vh;
+}
+.texte22{
+    display: flex;
+    width: 60%;
+    height: 40vh;
+    float: left;
+    margin-bottom: vh;
+    margin-right: 4%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
+.image3{
+    display: flex;
+
+}
+#texte222{
+    padding-top: 10vh;
+}
+.photolondre{
+    clear: left;
+}
+
+
+
+
+    
